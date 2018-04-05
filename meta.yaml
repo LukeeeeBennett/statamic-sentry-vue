@@ -1,0 +1,6 @@
+name: StatamicSentryVue
+version: "1.0.0"
+description: Statamic addon for Sentry error reporting for Vue
+url: https://github.com/LukeeeeBennett/statamic-sentry-vue
+developer: Luke Bennett
+developer_url: https://github.com/LukeeeeBennett
